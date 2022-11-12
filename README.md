@@ -11,12 +11,9 @@
     <li>
       <a href="#Q1">What task do you want to accomplish with the data?</a>
     </li>
-    <li>
-      <a href="#Q2">What kind of learning algorithm do you propose using to accomplish this task?</a>
-    </li>
     
     <li>
-      <a href="#Q3">How will you measure your performance of the task? </a>
+      <a href="#Q2">What kind of learning algorithm do you propose using to accomplish this task?</a>
     </li>
     
   </ol>
