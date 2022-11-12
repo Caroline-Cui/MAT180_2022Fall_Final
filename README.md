@@ -11,11 +11,9 @@ We access this data directly from Kaggle. This dataset was generated from The Mo
 We want to build a movie recommendation system based on genre, keywords, user rating etc.
 of the movies, and with a given input, we can give an output that contains the top ten most similar movies.
 
-<!-- Q2 -->
 ## What kind of learning algorithm do you propose using to accomplish this task?
 We will use Principal Component Analysis (PCA) to select key features. Then we will employ a neural network and use the key features as hidden layers to train our neural network. We will use content-based filtering to train the data and make predictions. 
 
-<!-- Q3 -->
 ## How will you measure your performance of the task? 
 Train a dataset to learn. Based on the training result give a suggestion of the next similar movie a user might want to watch. Performance will be measured by the accuracy of the suggestion. 
 
