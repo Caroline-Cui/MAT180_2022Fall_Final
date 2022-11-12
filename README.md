@@ -48,7 +48,7 @@ Train a dataset to learn. Based on the training result give a suggestion of the 
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Project Roadmap
 
 - [x] Add Changelog
 - [x] Add back to top links
@@ -66,7 +66,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Ye Cui - [@your_twitter] - cycui@ucdavis.edu
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
