@@ -11,7 +11,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#What task do you want to accomplish with the data?">What task do you want to accomplish with the data?</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -66,9 +66,11 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 ## Contact
 
-Ye Cui - [@your_twitter] - cycui@ucdavis.edu
+Ye Cui - cycui@ucdavis.edu
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Yuxin Chen - 
+
+Yizhang Huang - 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
