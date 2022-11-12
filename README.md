@@ -9,10 +9,6 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     
-    <li>
-      <a href="Q"> What task do you want to accomplish with the data? </a>
-    </li>
-    
   </ol>
 </details>
 
