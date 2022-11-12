@@ -1,25 +1,6 @@
 # MAT180_2022Fall_Final
 # Content-based Movie Recommendation System
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    
-    <li>
-      <a href="#what-task-do-you-want-to-accomplish-with-the-data">What task do you want to accomplish with the data</a>
-    </li>
-    
-    
-    
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Name of Project: Content-based Movie Recommendation System
