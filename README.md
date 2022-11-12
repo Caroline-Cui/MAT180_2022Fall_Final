@@ -8,9 +8,19 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
+    
     <li>
       <a href="#what-task-do-you-want-to-accomplish-with-the-data">What task do you want to accomplish with the data</a>
     </li>
+    
+    <li>
+      <a href="#what-kind-of-learning-algorithm-do-you-propose-using-to-accomplish-this-task">What kind of learning algorithm do you propose using to accomplish this task</a>
+    </li>
+    
+     <li>
+      <a href="#how-will-you-measure-your-performance-of-the-task">How will you measure your performance of the task</a>
+    </li>
+    
   </ol>
 </details>
 
