@@ -1,40 +1,19 @@
 # MAT180_2022Fall_Final
-# Content-based Movie Recommendation System
+# Learning to Play Pong
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-Name of Project: Content-based Movie Recommendation System
-How will the data be collected?
-We access this data directly from Kaggle. This dataset was generated from The Movie Database API. This product uses the TMDb API but is not endorsed or certified by TMDb.
+## Objective
+In this project, we will be training a model to learn to play Pong without human knowledge of the game. We will be using the OpenAI gym to run and interact with the Pong Atari game and the deep Q-learning algorithm. 
 
-## What task do you want to accomplish with the data?
-We want to build a movie recommendation system based on genre, keywords, user rating etc.
-of the movies, and with a given input, we can give an output that contains the top ten most similar movies.
-
-## What kind of learning algorithm do you propose using to accomplish this task?
-We will use Principal Component Analysis (PCA) to select key features. Then we will employ a neural network and use the key features as hidden layers to train our neural network. We will use content-based filtering to train the data and make predictions. 
-
-## How will you measure your performance of the task? 
-Train a dataset to learn. Based on the training result give a suggestion of the next similar movie a user might want to watch. Performance will be measured by the accuracy of the suggestion. 
-
-
-
-
-<!-- ROADMAP -->
-## Project Roadmap
-
-- [x] 
-- [x] 
-- [ ] 
-    - [ ] 
-    - [ ] 
-
+## Procedure
+We will first build a pre-trained model. Then we will make modifications to improve its ability to learn and train the provided pre-trained model to acceptable performance.
+The model will use its Q network to decide what moves to take when playing the game. This network will instead push each decision it made to an experience buffer. This replay buffer will be polled from to make updates to the Q network using the loss function. The environment will keep playing games of pong until either player gets 21 points.
 
 ## Contact
 
 Ye Cui - cycui@ucdavis.edu
 
-Yuxin Chen - 
+Yuxin Chen - vyxchen@ucdavis.edu
 
 Yizhang Huang - 
 
