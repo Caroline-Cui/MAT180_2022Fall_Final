@@ -36,7 +36,7 @@ Ye Cui - cycui@ucdavis.edu
 
 Yuxin Chen - vyxchen@ucdavis.edu
 
-Yizhang Huang - 
+Yizhang Huang - yzhua@ucdavis.edu
 
 
 
