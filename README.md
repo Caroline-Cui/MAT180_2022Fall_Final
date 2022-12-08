@@ -8,6 +8,9 @@ In this project, we will be training a model to learn to play Pong without human
 ## Overview
 As pre-trained model is provided, we will make modifications to improve its ability to learn and train the provided pre-trained model to acceptable performance. The model will use its Q network to decide what moves to take when playing the game. This network will push each decision it made to an experience buffer. This replay buffer will be polled from to make updates to the Q network using the loss function. The network is contained within dqn.py. We will train our network using run_dqn_pong.py. The environment will keep playing games of pong until either player gets 21 points.
 
+## Set up
+For the Q learner we must represent the game as a set of states, actions, and rewards. OpenAI offers the state as the hardware ram for the enviroment for our agent to learn. 
+
 ## Making Q-learner learn
 Q learner is a type of reinforcement learning that seeks next optimal action with a given current state. The next action is chosen at random and aims to maximize the reward.
 
