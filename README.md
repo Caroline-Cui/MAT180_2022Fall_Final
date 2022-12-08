@@ -15,6 +15,10 @@ We also used run_dqn_pong.py currently to record the loss and rewards in losses 
 
 When we tried training our model the first few times, we noticed that it would start around -20 average reward, go up to around -18, then go back down to -20 after around 120k frames. At this point, we would Ctrl-C and try making changes since we assumed it wasn’t working. One of the best changes we made to prevent it from going back down in reward averages was changing the way that we saved the model. Instead of simply saving it every 5k frames as we did at first, we modified it so that it would save the maximum average reward for the last 10k frames (the same value it prints in the console). Whenever a new maximum average was reached, the model would be saved. After 1 million frames, this achieved an average reward of 19.5. When running test_dqn_pong.py it won every game except for one game. However, after running another training session on that same model, we found the rewards incresaed much faster than the first one.
 
+![loss](https://user-images.githubusercontent.com/118039163/206359690-e2936b17-afa6-4ae1-a6b2-f930f0e472da.jpeg)
+![reward](https://user-images.githubusercontent.com/118039163/206359735-973a7476-1337-4d2d-b2f7-37db18259964.jpeg)
+
+
 ## Group Member
 
 Ye Cui - cycui@ucdavis.edu
